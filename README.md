@@ -1,4 +1,5 @@
 **Introduction**
+
 Welcome to the Global COVID-19 Vaccine Tracker and Image Processing Tool! This project aims to provide users with a comprehensive toolset for tracking COVID-19 vaccination data globally and performing various image processing operations. Developed by Sulaiman Waliu as part of the Master of Biometrics and Intelligent Vision program at Universite Paris Est Creteil University, this tool offers a user-friendly interface powered by Python programming language and PyQt5.
 
 
