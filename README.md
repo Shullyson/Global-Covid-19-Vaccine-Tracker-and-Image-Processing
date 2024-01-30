@@ -9,6 +9,7 @@ Welcome to the Global COVID-19 Vaccine Tracker and Image Processing Tool! This p
 
 The data processing section involves data cleaning, processing, and analyzing the Covid-19 vaccination data using Python libraries such as Pandas and NumPy. 
 The dataset used from https://ourworldindata.org/covid-vaccinations. The main tabs in this section include Graph, Chart, and Map.
+
 **Visualization Tabs:**
 
 **Graph tab:** Visualizes selected country data including daily vaccinations, total vaccinations, people vaccinated, daily people vaccinated, and people fully vaccinated. Users have the flexibility to plot single or multiple countries for effective comparison.
