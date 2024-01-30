@@ -18,6 +18,7 @@ The dataset used from https://ourworldindata.org/covid-vaccinations. The main ta
 
  
  **Image Processing – Help and Information**
+ 
 Welcome to the Image Processing component, where users can upload, save, and manipulate images. Developed with Python and utilizing the OpenCV library, this module provides a range of functionalities for image and video processing.
 
 **Functionality:**
